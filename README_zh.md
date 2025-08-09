@@ -47,10 +47,6 @@ git clone https://github.com/yourname/RootSocketKit.git
 将以下文件复制到您的Android项目中：
 - `service.cpp`：Root服务端代码
 - `ly.cpp`：JNI客户端代码
-- `MemoryReaderWriter38.h`：内存读写驱动接口
-- `MapRegionType.h`：内存区域类型定义
-- `IoctlBufferPool.h`：IOCTL缓冲区池
-- `IMemReaderWriterProxy.h`：内存读写代理接口
 
 ### 3. 修改CMakeLists.txt
 在您的CMakeLists.txt中添加以下内容：
