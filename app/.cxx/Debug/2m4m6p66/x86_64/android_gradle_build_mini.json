@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\ly\\AndroidStudioProjects\\Ly\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android Studio SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\ly\\AndroidStudioProjects\\Ly\\app\\.cxx\\Debug\\2m4m6p66\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android Studio SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\ly\\AndroidStudioProjects\\Ly\\app\\.cxx\\Debug\\2m4m6p66\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ly::@6890427a1f51a3e7e1df": {
+      "artifactName": "ly",
+      "abi": "x86_64",
+      "output": "E:\\ly\\AndroidStudioProjects\\Ly\\app\\build\\intermediates\\cxx\\Debug\\2m4m6p66\\obj\\x86_64\\libly.so",
+      "runtimeFiles": []
+    }
+  }
+}

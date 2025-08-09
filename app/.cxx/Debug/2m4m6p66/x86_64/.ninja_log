@@ -1,0 +1,7 @@
+# ninja log v5
+0	196	0	clean	2d9bce3f9c211fc5
+1	3276	7760798288953552	CMakeFiles/ly.dir/ly.cpp.o	298d099715ef153
+2	787	7764248257071825	build.ninja	b1e7f1955c46403d
+3281	4526	7760798300570899	E:/ly/AndroidStudioProjects/Ly/app/build/intermediates/cxx/Debug/2m4m6p66/obj/x86_64/libly.so	173599fb150a2e41
+3	945	7764248257071825	build.ninja	b1e7f1955c46403d
+0	282	0	clean	2d9bce3f9c211fc5

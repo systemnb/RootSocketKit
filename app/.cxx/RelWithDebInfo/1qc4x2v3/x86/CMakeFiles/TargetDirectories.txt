@@ -1,0 +1,4 @@
+E:/ly/AndroidStudioProjects/Ly/app/.cxx/RelWithDebInfo/1qc4x2v3/x86/CMakeFiles/ly.dir
+E:/ly/AndroidStudioProjects/Ly/app/.cxx/RelWithDebInfo/1qc4x2v3/x86/CMakeFiles/ly_service.dir
+E:/ly/AndroidStudioProjects/Ly/app/.cxx/RelWithDebInfo/1qc4x2v3/x86/CMakeFiles/edit_cache.dir
+E:/ly/AndroidStudioProjects/Ly/app/.cxx/RelWithDebInfo/1qc4x2v3/x86/CMakeFiles/rebuild_cache.dir

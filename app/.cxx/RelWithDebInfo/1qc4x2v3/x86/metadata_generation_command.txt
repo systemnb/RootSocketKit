@@ -1,0 +1,18 @@
+                        -HE:\ly\AndroidStudioProjects\Ly\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=30
+-DANDROID_PLATFORM=android-30
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=D:\Android Studio SDK\ndk\25.1.8937393
+-DCMAKE_ANDROID_NDK=D:\Android Studio SDK\ndk\25.1.8937393
+-DCMAKE_TOOLCHAIN_FILE=D:\Android Studio SDK\ndk\25.1.8937393\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Android Studio SDK\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\ly\AndroidStudioProjects\Ly\app\build\intermediates\cxx\RelWithDebInfo\1qc4x2v3\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=E:\ly\AndroidStudioProjects\Ly\app\build\intermediates\cxx\RelWithDebInfo\1qc4x2v3\obj\x86
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-BE:\ly\AndroidStudioProjects\Ly\app\.cxx\RelWithDebInfo\1qc4x2v3\x86
+-GNinja
+                        Build command args: []
+                        Version: 2
